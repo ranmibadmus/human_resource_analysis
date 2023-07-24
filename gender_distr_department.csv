@@ -1,0 +1,39 @@
+"department","gender","count"
+"Accounting","Male",1390
+"Accounting","Non-Conforming",73
+"Accounting","Female",1192
+"Auditing","Female",19
+"Auditing","Male",19
+"Business Development","Female",591
+"Business Development","Male",676
+"Business Development","Non-Conforming",39
+"Engineering","Female",2485
+"Engineering","Non-Conforming",153
+"Engineering","Male",2712
+"Human Resources","Female",683
+"Human Resources","Male",730
+"Human Resources","Non-Conforming",38
+"Legal","Female",110
+"Legal","Male",125
+"Legal","Non-Conforming",7
+"Marketing","Non-Conforming",5
+"Marketing","Male",205
+"Marketing","Female",200
+"Product Management","Non-Conforming",12
+"Product Management","Female",228
+"Product Management","Male",273
+"Research and Development","Male",417
+"Research and Development","Female",408
+"Research and Development","Non-Conforming",28
+"Sales","Non-Conforming",39
+"Sales","Male",750
+"Sales","Female",658
+"Services","Non-Conforming",29
+"Services","Male",683
+"Services","Female",646
+"Support","Female",344
+"Support","Non-Conforming",27
+"Support","Male",384
+"Training","Non-Conforming",38
+"Training","Female",629
+"Training","Male",706
